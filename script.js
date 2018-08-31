@@ -1,4 +1,4 @@
-var bug = true;
+var bug = false;
 
 if(bug){
     document.querySelector('#smile').style.display = 'none';
