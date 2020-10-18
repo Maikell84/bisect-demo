@@ -1,14 +1,14 @@
 #bug {
-    display: none;
+  display: none;
 }
 
 #bug i {
-    color: red;
+  color: red;
 }
 #smile i {
-    color: green;;
+  color: green;;
 }
 
 i {
-    font-size: 50em;
+  font-size: 50em;
 }
